@@ -1,5 +1,5 @@
 import unittest
-from sparse_add import sparse_add
+from sparsevector import sparse_add
 
 
 class TestAdd(unittest.TestCase):
